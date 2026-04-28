@@ -1,0 +1,57 @@
+{
+  "DEC-20241105-0042": {
+    "explanation_hi": "प्रिय शर्मा जी, आपका ₹1,50,000 का ऋण आवेदन अस्वीकार कर दिया गया है। हमारे विश्लेषण से पता चलता है कि इस निर्णय में तीन मुख्य कारक थे:\n\n1. **आपका पिन कोड (241001 - सीतापुर, उ.प्र.)**: आपके क्षेत्र का पिन कोड इस निर्णय का सबसे बड़ा कारक था। यह चिंताजनक है क्योंकि आपका निवास स्थान आपकी ऋण चुकाने की क्षमता का सही माप नहीं है।\n\n2. **आपकी आय (₹18,000/माह)**: आपकी मासिक आय को ऋण राशि के अनुपात में कम आंका गया।\n\n3. **रोज़गार का प्रकार (अनौपचारिक)**: अनौपचारिक क्षेत्र में काम करने के कारण आपके आवेदन को अतिरिक्त जोखिम माना गया।\n\nयह ध्यान देने योग्य है कि आपके क्रेडिट स्कोर (612) को उचित माना जा सकता था, लेकिन भौगोलिक कारकों ने इसे दबा दिया।",
+    "explanation_en": "Dear Priya Sharma, your loan application for ₹1,50,000 has been rejected. Our analysis reveals three key factors drove this decision:\n\n1. **Your PIN Code (241001 - Sitapur, UP)**: Your area's postal code was the single strongest factor in this rejection. This is concerning because your residential location is not a valid measure of your ability to repay a loan.\n\n2. **Your Income (₹18,000/month)**: Your monthly income was considered low relative to the loan amount requested.\n\n3. **Employment Type (Informal)**: Working in the informal sector added additional risk weight to your application.\n\nNotably, your credit score (612) could have been considered acceptable, but geographic factors overrode it.",
+    "legal_note": "यह निर्णय डिजिटल व्यक्तिगत डेटा संरक्षण अधिनियम 2023 की धारा 12(2) के तहत चुनौती योग्य हो सकता है। आपको यह जानने का अधिकार है कि स्वचालित निर्णय कैसे लिया गया, और यदि यह अनुचित है तो इसे चुनौती देने का अधिकार है। पिन कोड के आधार पर भेदभाव संविधान के अनुच्छेद 14 (कानून के समक्ष समानता) का उल्लंघन हो सकता है। / This decision may be challengeable under DPDPA 2023 Section 12(2), which grants you the right to know how automated decisions are made and to contest them if unfair. Discrimination based on PIN code may violate Article 14 of the Constitution (equality before law).",
+    "action_advice": "आप अपने बैंक शाखा प्रबंधक से लिखित में अस्वीकृति का कारण मांग सकते हैं। DPDPA 2023 के तहत, आपको 30 दिनों के भीतर उत्तर मिलना चाहिए। यदि पिन कोड मुख्य कारण था, तो आप RBI लोकपाल के पास शिकायत दर्ज कर सकते हैं। / You can request written reasons for rejection from your bank branch manager. Under DPDPA 2023, you should receive a response within 30 days. If PIN code was the primary factor, you may file a complaint with the RBI Ombudsman.",
+    "top_factors": [
+      {"feature": "pin_code_encoded", "direction": "rejection", "plain_name": "Residential PIN Code (Location)"},
+      {"feature": "income", "direction": "rejection", "plain_name": "Monthly Income"},
+      {"feature": "employment_type_encoded", "direction": "rejection", "plain_name": "Employment Type"}
+    ]
+  },
+  "DEC-20240115-0007": {
+    "explanation_hi": "रेखा देवी जी, आपका ₹1,00,000 का ऋण आवेदन अस्वीकार कर दिया गया है। विश्लेषण से पता चलता है कि:\n\n1. **आपका पिन कोड (845401 - मोतिहारी, बिहार)**: यह सबसे प्रमुख कारक था। ग्रामीण बिहार के पिन कोड वाले आवेदकों की अस्वीकृति दर काफी अधिक है।\n\n2. **क्रेडिट स्कोर (588)**: आपका स्कोर न्यूनतम सीमा से नीचे है।\n\n3. **रोज़गार (अनौपचारिक)**: अनौपचारिक क्षेत्र का रोज़गार एक नकारात्मक कारक था।\n\nआपके मामले में भौगोलिक और लैंगिक कारकों का संयुक्त प्रभाव विशेष रूप से चिंताजनक है।",
+    "explanation_en": "Dear Rekha Devi, your loan application for ₹1,00,000 has been rejected. Analysis shows:\n\n1. **Your PIN Code (845401 - Motihari, Bihar)**: This was the dominant factor. Applicants from rural Bihar PIN codes face significantly higher rejection rates.\n\n2. **Credit Score (588)**: Your score falls below the minimum threshold.\n\n3. **Employment (Informal)**: Informal sector employment was a negative factor.\n\nThe combined impact of geographic and gender factors in your case is particularly concerning.",
+    "legal_note": "यह निर्णय DPDPA 2023 धारा 12(2) के तहत चुनौती योग्य हो सकता है। लिंग और भूगोल के आधार पर संयुक्त भेदभाव संविधान के अनुच्छेद 14 और 15 का उल्लंघन है। / This decision may be challengeable under DPDPA 2023 Section 12(2). Combined discrimination based on gender and geography violates Articles 14 and 15 of the Constitution.",
+    "action_advice": "निकटतम बैंक शाखा में जाकर लिखित अस्वीकृति कारण मांगें। RBI लोकपाल को ऑनलाइन शिकायत करें: https://cms.rbi.org.in / Visit your nearest bank branch to request written rejection reasons. File an online complaint with RBI Ombudsman: https://cms.rbi.org.in",
+    "top_factors": [
+      {"feature": "pin_code_encoded", "direction": "rejection", "plain_name": "Residential PIN Code"},
+      {"feature": "credit_score", "direction": "rejection", "plain_name": "Credit Score"},
+      {"feature": "employment_type_encoded", "direction": "rejection", "plain_name": "Employment Type"}
+    ]
+  },
+  "DEC-20240302-0019": {
+    "explanation_hi": "सुनीता कुमारी जी, आपका ₹2,00,000 का ऋण आवेदन अस्वीकार किया गया। मुख्य कारण:\n\n1. **पिन कोड (226001 - लखनऊ)**: आपके क्षेत्र को उच्च-जोखिम श्रेणी में रखा गया है।\n\n2. **ऋण-आय अनुपात**: ₹2,00,000 का ऋण आपकी ₹22,000 मासिक आय की तुलना में अधिक माना गया।\n\n3. **स्व-रोज़गार**: स्व-रोज़गार को वेतनभोगी की तुलना में अधिक जोखिम वाला माना गया।\n\nआपका क्रेडिट स्कोर (634) मध्यम श्रेणी में है जो सामान्यतः स्वीकार्य होना चाहिए।",
+    "explanation_en": "Dear Sunita Kumari, your loan application for ₹2,00,000 has been rejected. Key reasons:\n\n1. **PIN Code (226001 - Lucknow)**: Your area has been categorized as high-risk.\n\n2. **Loan-to-Income Ratio**: ₹2,00,000 was considered high relative to your ₹22,000 monthly income.\n\n3. **Self-Employment**: Self-employment was considered higher risk than salaried employment.\n\nYour credit score (634) is in the medium range and would normally be acceptable.",
+    "legal_note": "DPDPA 2023 धारा 12(2) के अंतर्गत आपको स्वचालित निर्णय की व्याख्या का अधिकार है। / Under DPDPA 2023 Section 12(2), you have the right to an explanation of automated decisions.",
+    "action_advice": "बैंक से विस्तृत अस्वीकृति पत्र मांगें और जिला उपभोक्ता फोरम में शिकायत दर्ज करने पर विचार करें। / Request a detailed rejection letter from the bank and consider filing a complaint with the District Consumer Forum.",
+    "top_factors": [
+      {"feature": "pin_code_encoded", "direction": "rejection", "plain_name": "Residential PIN Code"},
+      {"feature": "loan_amount", "direction": "rejection", "plain_name": "Loan Amount Requested"},
+      {"feature": "employment_type_encoded", "direction": "rejection", "plain_name": "Employment Type"}
+    ]
+  },
+  "DEC-20240518-0031": {
+    "explanation_hi": "मीना यादव जी, आपका ₹1,20,000 का ऋण आवेदन अस्वीकार हुआ। कारण:\n\n1. **पिन कोड (273001 - गोरखपुर, उ.प्र.)**: ग्रामीण उत्तर प्रदेश का पिन कोड प्रमुख नकारात्मक कारक था।\n\n2. **आय (₹16,000/माह)**: कम मासिक आय।\n\n3. **क्रेडिट स्कोर (601)**: न्यूनतम सीमा के करीब।\n\nमहिला होने और ग्रामीण क्षेत्र से होने का संयुक्त प्रभाव आपके आवेदन पर विशेष रूप से भारी पड़ा।",
+    "explanation_en": "Dear Meena Yadav, your loan application for ₹1,20,000 has been rejected. Reasons:\n\n1. **PIN Code (273001 - Gorakhpur, UP)**: The rural UP PIN code was the primary negative factor.\n\n2. **Income (₹16,000/month)**: Low monthly income.\n\n3. **Credit Score (601)**: Near the minimum threshold.\n\nThe combined effect of being female and from a rural area weighed particularly heavily on your application.",
+    "legal_note": "DPDPA 2023 धारा 12(2) के तहत यह निर्णय चुनौती योग्य है। लैंगिक भेदभाव अनुच्छेद 15 का उल्लंघन है। / This decision is challengeable under DPDPA 2023 Section 12(2). Gender discrimination violates Article 15.",
+    "action_advice": "जिला विधिक सेवा प्राधिकरण (DLSA) से मुफ्त कानूनी सहायता प्राप्त करें। / Seek free legal aid from the District Legal Services Authority (DLSA).",
+    "top_factors": [
+      {"feature": "pin_code_encoded", "direction": "rejection", "plain_name": "Residential PIN Code"},
+      {"feature": "income", "direction": "rejection", "plain_name": "Monthly Income"},
+      {"feature": "credit_score", "direction": "rejection", "plain_name": "Credit Score"}
+    ]
+  },
+  "DEC-20240720-0055": {
+    "explanation_hi": "अनीता गुप्ता जी, आपका ₹3,00,000 का ऋण आवेदन अस्वीकार हुआ। विश्लेषण:\n\n1. **पिन कोड (221001 - वाराणसी, उ.प्र.)**: वाराणसी का पिन कोड उच्च-जोखिम श्रेणी में है।\n\n2. **ऋण राशि (₹3,00,000)**: अपेक्षाकृत बड़ी ऋण राशि जोखिम बढ़ाती है।\n\n3. **आय अनुपात**: ₹31,000 की आय से ₹3,00,000 का ऋण चुकाना कठिन माना गया।\n\nआपका क्रेडिट स्कोर (658) अच्छा है — फिर भी भौगोलिक कारक ने निर्णय को प्रभावित किया।",
+    "explanation_en": "Dear Anita Gupta, your loan application for ₹3,00,000 has been rejected. Analysis:\n\n1. **PIN Code (221001 - Varanasi, UP)**: Varanasi's PIN code falls in the high-risk category.\n\n2. **Loan Amount (₹3,00,000)**: The relatively large loan amount increases risk assessment.\n\n3. **Income Ratio**: Repaying ₹3,00,000 on ₹31,000 monthly income was considered difficult.\n\nYour credit score (658) is good — yet geographic factors influenced the decision.",
+    "legal_note": "DPDPA 2023 धारा 12(2) आपको स्वचालित निर्णय को चुनौती देने का अधिकार देती है। अच्छे क्रेडिट स्कोर के बावजूद अस्वीकृति भेदभावपूर्ण हो सकती है। / DPDPA 2023 Section 12(2) gives you the right to contest automated decisions. Rejection despite a good credit score may be discriminatory.",
+    "action_advice": "बैंक मुख्यालय को शिकायत पत्र लिखें और RBI के फेयर प्रैक्टिसेज कोड का हवाला दें। / Write a complaint letter to the bank headquarters citing RBI's Fair Practices Code.",
+    "top_factors": [
+      {"feature": "pin_code_encoded", "direction": "rejection", "plain_name": "Residential PIN Code"},
+      {"feature": "loan_amount", "direction": "rejection", "plain_name": "Loan Amount"},
+      {"feature": "income", "direction": "rejection", "plain_name": "Monthly Income"}
+    ]
+  }
+}

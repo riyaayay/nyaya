@@ -1,0 +1,17 @@
+{
+  "accuracy": 0.685,
+  "auc_roc": 0.7118,
+  "n_train": 800,
+  "n_test": 200,
+  "feature_coefficients": {
+    "age": 0.0403,
+    "income": 0.1461,
+    "loan_amount": -0.2067,
+    "credit_score": 0.486,
+    "pin_code_encoded": -0.5821,
+    "employment_type_encoded": 0.2503,
+    "gender_encoded": 0.1092
+  },
+  "model": "LogisticRegression(C=1.0, solver=lbfgs)",
+  "scaler": "StandardScaler"
+}
